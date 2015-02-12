@@ -1,2 +1,2 @@
 # LPCoding
-Simple C++/Qt demo of Linear Predictive Coding used in speech processing.
+Simple C++/Qt demo of Linear Predictive Coding in Time Domain used in speech processing.
